@@ -1,6 +1,6 @@
 # Journal
 
-In addition to the scripts here, I also have [this Workflow](https://workflow.is/workflows/f27afcee04674f05952d99dd10269edd) and the following Drafts 4 action:
+In addition to the scripts here, I also have [this Workflow](https://workflow.is/workflows/f7cd90eac8864398a51ac4a9ac4286ed) and the following Drafts 4 action:
 
 ## Add Journal Entry (Drafts action)
 
